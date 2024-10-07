@@ -1,0 +1,3 @@
+ERROR:root:Error downloading subtitles: Command '['yt-dlp', '--list-subs', '']' returned non-zero exit status 1.
+ERROR:root:Error downloading subtitles: Command '['yt-dlp', '--list-subs', '']' returned non-zero exit status 1.
+INFO:root:Subtitles downloaded for https://www.youtube.com/watch?v=mPD9kSKci8c
